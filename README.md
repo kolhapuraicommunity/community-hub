@@ -1,7 +1,7 @@
 # Kolhapur AI Community 🛡️
 
 ### Connect. Build. Grow.
-[cite_start]**"Moving Kolhapur from AI Consumers to AI Builders."** [cite: 3]
+**"Moving Kolhapur from AI Consumers to AI Builders."**
 
 ## 🌟 Our Vision
 [cite_start]Our mission is to transform Kolhapur into a premier city for AI talent by December 2026[cite: 5]. We connect students, developers, and businesses into a structured ecosystem where:
