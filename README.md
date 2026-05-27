@@ -9,7 +9,7 @@
 *  **Developers** share technical expertise and mentor the next generation.
 *  **Businesses** receive practical AI roadmaps and employee upskilling.
 
-## 🗺️ 2026 Roadmap
+## 🗺️ Roadmap
 *  **Phase 1 (May):** Launching inaugural events and the first AI Project Weekend.
 *  **Phase 2 (July):** Expanding to 3+ colleges and hosting consistent "Builder Experience Shares".
 *  **The Goal:** Produce 100+ AI-ready students per year and secure recognition for Kolhapur.
