@@ -200,40 +200,6 @@ streamlit run app.py
 ollama pull mistral
 ```
 
-
----
-
-## 🧪 Demo Script (For Presentations)
-
-1. **Start Ollama:**
-   ```bash
-   ollama serve
-   ollama pull mistral
-   ```
-
-2. **Start Streamlit:**
-   ```bash
-   streamlit run app.py
-   ```
-
-3. **Upload 2–3 PDFs** about Kolhapur landmarks
-
-4. **Click "Process & Index Documents"** → Show progress bars
-
-5. **Ask Questions:**
-   - "What is the history of Mahalaxmi Temple?"
-   - "Where is panhala fort?"
-
-6. **Click "Architect Mode" expander** → Show source PDF + page + chunk
-
-7. **Ask Out-of-Scope Question:**
-   - "Who is the Prime Minister of India?"
-   - Bot should reply: *"I'm sorry, but I can only answer questions about Kolhapur's tourist places..."*
-
-8. **Click "Reset / Reindex Database"** → Show fresh reindexing
-
----
-
 ## 🚀 Future Enhancements
 
 | Enhancement | Why It Matters |
